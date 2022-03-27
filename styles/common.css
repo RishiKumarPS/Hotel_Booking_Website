@@ -1,6 +1,12 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
 .logo {
-    height: 100px;
-    width: 150px;
+    height: 60px;
+    width: 60px;
 }
 
 .socialIcon {
