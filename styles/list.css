@@ -1,3 +1,9 @@
+.listItems {
+    margin: 2%;
+    background-color: rgba(132, 136, 139);
+    width: 40%;
+}
+
 .cityListImg {
     height: 250px;
     width: 250px;
